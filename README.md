@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Patil</h1>
-<h3 align="center">A passionate Data Engineer from India.</h3>
+<h3 align="center">A passionate Big Data Engineer from India.</h3>
 
 - 🔭 I’m currently working on **Azure Big Data Project**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Spark, SQL.**
 
-- 📫 How to reach me **mrrahulpatil03@gmail.com**
+- 📫 How to reach me : **mrrahulpatil03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
