@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahul-tech03](https://github.com/rahul-tech03)
 
-- 💬 Ask me about **Python, Spark, SQL.**
+- 💬 Ask me about **Big Data Solutions,Data Modeling, Distributed COmputing, SQL, PySpark, Python Azure Cloud Services, .**
 
 - 📫 How to reach me : **mrrahulpatil03@gmail.com**
 
