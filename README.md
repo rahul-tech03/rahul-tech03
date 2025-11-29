@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Patil</h1>
 <h3 align="center">A passionate AI Data Engineer from India.</h3>
 
-- 🔭 I’m currently working on **Azure Big Data Project**
+- 🔭 I’m currently working on ** Agentic AI & Data projects **
 
 - 🌱 I’m currently learning ** Agentic AI.**
 
