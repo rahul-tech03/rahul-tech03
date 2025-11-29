@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rahul Patil</h1>
-<h3 align="center">A passionate Big Data Engineer from India.</h3>
+<h3 align="center">A passionate AI Data Engineer from India.</h3>
 
 - 🔭 I’m currently working on **Azure Big Data Project**
 
-- 🌱 I’m currently learning **Azure Cloud services.**
+- 🌱 I’m currently learning ** Agentic AI.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahul-tech03](https://github.com/rahul-tech03)
 
-- 💬 Ask me about **Big Data Solutions, Data Analytics, Azure Cloud Services, Spark and SQL .**
+- 💬 Ask me about **Big Data and AI Solutions, Backend solutions, Azure Cloud Services, Spark and SQL .**
 
 - 📫 How to reach me : **mrrahulpatil03@gmail.com**
 
